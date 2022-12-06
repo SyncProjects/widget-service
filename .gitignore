@@ -35,11 +35,13 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 
-resources
 temp/
-resources/user/
-packages/appFactory/dist
-packages/appFactory/public/model
-packages/appFactory/public/component
-packages/appFactory/public/image
-packages/appFactory/public/texture
+resources/component/
+resources/model/
+resources/texture/
+resources/widget/
+packages/widget/dist
+packages/widget/public/model
+packages/widget/public/component
+packages/widget/public/image
+packages/widget/public/texture
